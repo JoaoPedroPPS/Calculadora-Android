@@ -2,7 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/JoaoPedroPPS?style=social)
 ![GitHub](https://img.shields.io/github/license/JoaoPedroPPS/calculadora-android?style=flat-square)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/JoaoPedroPPS/Calculadora-Android?style=flat-square)
 
 
 ![Android Studio Logo](https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png)
@@ -35,4 +34,4 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.m
 
 ---
 ![Joao Pedro](https://avatars.githubusercontent.com/u/84422500?s=400&u=7516e833207d6489e76c722c9d9048a637c83634&v=4)
-Desenvolvido por [Seu Nome](link para o perfil do Github)
+Desenvolvido por [João Pedro](https://github.com/JoaoPedroPPS/JoaoPedroPPS)
