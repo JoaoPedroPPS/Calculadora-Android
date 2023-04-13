@@ -5,28 +5,21 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/JoaoPedroPPS/Calculadora-Android?style=flat-square)
 
 
-
-## Sobre o Projeto
+![Android Studio Logo](https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png)
+## 💻Sobre o Projeto
 
 O aplicativo de calculadora Android é uma ferramenta que permite realizar operações matemáticas básicas em um dispositivo móvel. Com ele, você pode somar, subtrair, multiplicar e dividir números com facilidade e rapidez.
 
 Este projeto foi desenvolvido utilizando a plataforma Android Studio e a linguagem de programação Java. Ele foi criado com o objetivo de fornecer uma experiência de uso intuitiva e simples para todos os usuários.
 
-## Funcionalidades
+## ⚙️Funcionalidades
 
 Algumas das principais funcionalidades do aplicativo de calculadora Android são:
 
-- Realização de operações matemáticas básicas (adição, subtração, multiplicação e divisão).
-- Histórico de cálculos realizados.
+- Realização de operações matemáticas básicas (adição, subtração, multiplicação, divisão, resto de divisão).
+- Cálculo de uma Expressão inteira
 - Possibilidade de limpar o histórico de cálculos.
-- Possibilidade de copiar o resultado de uma operação para a área de transferência.
-
-## Tecnologias
-
-O aplicativo de calculadora Android foi desenvolvido utilizando as seguintes tecnologias:
-
-- Android Studio ![Android Studio Logo](https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png)
-- Java ![Java Logo](https://camo.githubusercontent.com/8d1452c2b69fb2a42cf6f3889ff9659a7d35e42cbb45935f5790e81371039fb1/68747470733a2f2f69636f6e2d6c6962726172792e636f6d2f696d616765732f6a6176612d69636f6e2d706e672f6a6176612d69636f6e2d706e672d31352e6a7067)
+- Apagar ultimo caractere dígitado.
 
 ## Como usar
 
