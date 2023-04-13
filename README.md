@@ -33,5 +33,7 @@ Este projeto está aberto para contribuições. Se você encontrou um erro ou de
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/seunome/calculadora-android/blob/main/LICENSE.md) para obter mais detalhes.
 
 ---
-![Joao Pedro](https://avatars.githubusercontent.com/u/84422500?s=400&u=7516e833207d6489e76c722c9d9048a637c83634&v=4)
+
 Desenvolvido por [João Pedro](https://github.com/JoaoPedroPPS/JoaoPedroPPS)
+
+![Joao Pedro](https://avatars.githubusercontent.com/u/84422500?s=400&u=7516e833207d6489e76c722c9d9048a637c83634&v=4)
