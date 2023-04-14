@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                     Double resultado = avaliadorExpressao.calculate();
 
-                    textViewUltimaExpressao.setText(expressao);
+                    textViewUltimaExpressao.setText(resultado.toString());
                     textViewResultado.setText(resultado.toString());
                 } catch (Exception e) {
                     Log.d(TAG, e.getMessage());
@@ -103,6 +103,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if (!finalresult.equals("Err")){
             textViewResultado.setText(finalresult);
         }
+        
     }
 
     String getResult(String data){
